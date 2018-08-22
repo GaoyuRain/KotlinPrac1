@@ -3,7 +3,7 @@
  * GaoyuRain
  * des：
  */
-
+//所有类都继承自Any
 open class Person(name: String, age: Int, weight: Int) {
     init {
         println("new 了一个${this.javaClass.simpleName},name:$name,age$age,wetght$weight")
