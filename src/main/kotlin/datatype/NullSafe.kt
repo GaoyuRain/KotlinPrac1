@@ -1,3 +1,8 @@
+package datatype
+
+import Child
+import Parent
+
 /**
  * Created by ${GY} on 2018/8/22  Kotlin1
  * GaoyuRain
@@ -13,7 +18,7 @@ fun getName1(): String? {
 }
 
 fun main(args: Array<String>) {
-//    if (getName()== null)
+//    if (datatype.getName()== null)
     println(getName().length)
 
     //！！表示已经确定值不为null
