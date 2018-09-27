@@ -21,7 +21,7 @@ fun main(args: Array<String>) {
     arrayOfBoss[0] = Boss("Gao")
     println(arrayOfBoss[0])
 
-    // 字符间加 ,
+    // 字符间加 ，
     println(arrayOfChar.joinToString())
     // 字符间为空
     println(arrayOfChar.joinToString(""))
