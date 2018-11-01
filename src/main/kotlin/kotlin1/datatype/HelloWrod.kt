@@ -1,4 +1,4 @@
-package datatype
+package kotlin1.datatype
 
 /**
  * Created by ${GY} on 2018/8/21  Kotlin1

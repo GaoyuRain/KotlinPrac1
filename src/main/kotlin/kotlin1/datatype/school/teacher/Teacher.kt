@@ -1,6 +1,6 @@
-package datatype.school.teacher
+package kotlin1.datatype.school.teacher
 
-import datatype.school.student.XiaoMei as Girle
+import kotlin1.datatype.school.student.XiaoMei as Girle
 
 /**
  * Created by ${GY} on 2018/8/23  Kotlin1

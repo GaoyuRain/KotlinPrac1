@@ -1,4 +1,4 @@
-package datatype.company
+package kotlin1.datatype.company
 
 /**
  * Created by ${GY} on 2018/8/23  Kotlin1

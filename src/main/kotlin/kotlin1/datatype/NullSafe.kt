@@ -1,4 +1,4 @@
-package datatype
+package kotlin1.datatype
 
 import Child
 import Parent
@@ -18,7 +18,7 @@ fun getName1(): String? {
 }
 
 fun main(args: Array<String>) {
-//    if (datatype.getName()== null)
+//    if (kotlin1.getName()== null)
     println(getName().length)
 
     //！！表示已经确定值不为null

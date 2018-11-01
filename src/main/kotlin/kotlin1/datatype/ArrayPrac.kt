@@ -1,6 +1,6 @@
-package datatype
+package kotlin1.datatype
 
-import datatype.company.Boss
+import kotlin1.datatype.company.Boss
 
 /**
  * Created by ${GY} on 2018/8/28  Kotlin1
